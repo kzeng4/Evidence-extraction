@@ -1,0 +1,1427 @@
+{
+  "metadata": {
+    "source_file": "error_logs_v2.json",
+    "num_error_logs": 2735,
+    "error_type_counts": {
+      "FP_ANNOTATION_UNDERLABEL": 569,
+      "FN_ITEM_CONFUSION": 529,
+      "FP_ITEM_CONFUSION": 763,
+      "FN_EXTRACTION_OMISSION": 652,
+      "FP_SECTION_MISUSE": 83,
+      "FP_OTHER": 46,
+      "FP_VALID_ALTERNATIVE": 20,
+      "FP_MISSING_CONSTRAINT": 41,
+      "FN_BOUNDARY_MISMATCH": 16,
+      "EMPTY_ERROR": 6,
+      "FN_INCOMPLETE_COVERAGE": 1,
+      "FP_HALLUCINATION": 2,
+      "FP_BOUNDARY_MISMATCH": 7
+    },
+    "section_counts": {
+      "Methods": 786,
+      "Results": 940,
+      "Discussion": 867,
+      "Abstract": 10,
+      "Introduction": 67,
+      "Other": 65
+    },
+    "top_error_items": [
+      [
+        "17a",
+        469
+      ],
+      [
+        "22",
+        348
+      ],
+      [
+        "6a",
+        281
+      ],
+      [
+        "18",
+        211
+      ],
+      [
+        "19",
+        162
+      ],
+      [
+        "12a",
+        113
+      ],
+      [
+        "5",
+        110
+      ],
+      [
+        "25",
+        106
+      ],
+      [
+        "20",
+        104
+      ],
+      [
+        "17b",
+        81
+      ],
+      [
+        "15",
+        80
+      ],
+      [
+        "12b",
+        70
+      ],
+      [
+        "16",
+        62
+      ],
+      [
+        "21",
+        59
+      ],
+      [
+        "13b",
+        55
+      ],
+      [
+        "3a",
+        55
+      ],
+      [
+        "13a",
+        47
+      ],
+      [
+        "11a",
+        39
+      ],
+      [
+        "2b",
+        35
+      ],
+      [
+        "4a",
+        34
+      ],
+      [
+        "9",
+        29
+      ],
+      [
+        "7a",
+        28
+      ],
+      [
+        "14a",
+        27
+      ],
+      [
+        "4b",
+        21
+      ],
+      [
+        "8b",
+        20
+      ],
+      [
+        "3b",
+        16
+      ],
+      [
+        "8a",
+        15
+      ],
+      [
+        "10",
+        12
+      ],
+      [
+        "7b",
+        10
+      ],
+      [
+        "14b",
+        9
+      ]
+    ],
+    "top_confusion_pairs": [
+      {
+        "pair": [
+          "17a",
+          "18"
+        ],
+        "count": 176
+      },
+      {
+        "pair": [
+          "17a",
+          "17b"
+        ],
+        "count": 85
+      },
+      {
+        "pair": [
+          "12a",
+          "12b"
+        ],
+        "count": 66
+      },
+      {
+        "pair": [
+          "20",
+          "22"
+        ],
+        "count": 60
+      },
+      {
+        "pair": [
+          "17a",
+          "22"
+        ],
+        "count": 57
+      },
+      {
+        "pair": [
+          "21",
+          "22"
+        ],
+        "count": 39
+      },
+      {
+        "pair": [
+          "19",
+          "22"
+        ],
+        "count": 37
+      },
+      {
+        "pair": [
+          "18",
+          "22"
+        ],
+        "count": 35
+      },
+      {
+        "pair": [
+          "5",
+          "6a"
+        ],
+        "count": 29
+      },
+      {
+        "pair": [
+          "11a",
+          "6a"
+        ],
+        "count": 26
+      },
+      {
+        "pair": [
+          "17a",
+          "19"
+        ],
+        "count": 21
+      },
+      {
+        "pair": [
+          "12a",
+          "6a"
+        ],
+        "count": 20
+      },
+      {
+        "pair": [
+          "12b",
+          "6a"
+        ],
+        "count": 19
+      },
+      {
+        "pair": [
+          "17b",
+          "19"
+        ],
+        "count": 16
+      },
+      {
+        "pair": [
+          "13b",
+          "19"
+        ],
+        "count": 14
+      },
+      {
+        "pair": [
+          "10",
+          "9"
+        ],
+        "count": 14
+      },
+      {
+        "pair": [
+          "2b",
+          "6a"
+        ],
+        "count": 12
+      },
+      {
+        "pair": [
+          "3a",
+          "5"
+        ],
+        "count": 12
+      },
+      {
+        "pair": [
+          "16",
+          "17a"
+        ],
+        "count": 11
+      },
+      {
+        "pair": [
+          "18",
+          "19"
+        ],
+        "count": 11
+      },
+      {
+        "pair": [
+          "17b",
+          "18"
+        ],
+        "count": 10
+      },
+      {
+        "pair": [
+          "13b",
+          "16"
+        ],
+        "count": 10
+      },
+      {
+        "pair": [
+          "4b",
+          "6a"
+        ],
+        "count": 9
+      },
+      {
+        "pair": [
+          "13a",
+          "16"
+        ],
+        "count": 9
+      },
+      {
+        "pair": [
+          "20",
+          "21"
+        ],
+        "count": 9
+      },
+      {
+        "pair": [
+          "4a",
+          "5"
+        ],
+        "count": 8
+      },
+      {
+        "pair": [
+          "2b",
+          "3a"
+        ],
+        "count": 8
+      },
+      {
+        "pair": [
+          "14a",
+          "6a"
+        ],
+        "count": 8
+      },
+      {
+        "pair": [
+          "6a",
+          "6b"
+        ],
+        "count": 6
+      },
+      {
+        "pair": [
+          "8a",
+          "9"
+        ],
+        "count": 6
+      },
+      {
+        "pair": [
+          "6a",
+          "7a"
+        ],
+        "count": 6
+      },
+      {
+        "pair": [
+          "16",
+          "17b"
+        ],
+        "count": 6
+      },
+      {
+        "pair": [
+          "20",
+          "3b"
+        ],
+        "count": 6
+      },
+      {
+        "pair": [
+          "16",
+          "18"
+        ],
+        "count": 5
+      },
+      {
+        "pair": [
+          "20",
+          "7a"
+        ],
+        "count": 5
+      },
+      {
+        "pair": [
+          "13a",
+          "15"
+        ],
+        "count": 4
+      },
+      {
+        "pair": [
+          "11a",
+          "11b"
+        ],
+        "count": 4
+      },
+      {
+        "pair": [
+          "15",
+          "18"
+        ],
+        "count": 4
+      },
+      {
+        "pair": [
+          "15",
+          "17a"
+        ],
+        "count": 4
+      },
+      {
+        "pair": [
+          "22",
+          "3a"
+        ],
+        "count": 4
+      }
+    ],
+    "note": "Prototype memory induced from offline error logs. It should be used as a constrained alignment/verifier aid, not as ground-truth guideline replacement."
+  },
+  "item_prototypes": {
+    "6a": {
+      "must_have": [
+        "Defines what outcome/endpoint/measure was assessed, or how/when it was measured.",
+        "Can include measurement instruments, imaging protocols, safety/monitoring outcomes, primary/secondary/exploratory objectives when they define measured outcomes."
+      ],
+      "not_if": [
+        "The sentence describes statistical tests/models/comparison procedures rather than the outcome itself.",
+        "The sentence is an objective/rationale without a concrete outcome measure.",
+        "The sentence describes a future or external trial rather than this trial."
+      ],
+      "positive_cues": [
+        "primary outcome",
+        "secondary outcome",
+        "objective",
+        "endpoint",
+        "measured",
+        "assessed",
+        "at baseline",
+        "after",
+        "scale",
+        "MRI",
+        "monitoring",
+        "blood pressure",
+        "adverse event monitoring"
+      ],
+      "negative_cues": [
+        "analysis of covariance",
+        "regression",
+        "compared using",
+        "sample size",
+        "randomized",
+        "future trial",
+        "will evaluate"
+      ],
+      "section_prior": [
+        "Methods"
+      ],
+      "high_risk_confusions": [
+        "5",
+        "12a",
+        "12b",
+        "11a",
+        "2b",
+        "7a"
+      ],
+      "definition": "Completely defined pre-specified primary and secondary outcome measures, including how and when assessed.",
+      "error_count": 281,
+      "omission_count": 114,
+      "section_misuse_count": 8,
+      "underlabel_or_valid_alt_count": 43
+    },
+    "12a": {
+      "must_have": [
+        "Describes statistical methods for primary/secondary outcome comparisons, data transformations, significance thresholds, software, or handling multiplicity."
+      ],
+      "not_if": [
+        "The sentence defines what was measured without explaining the statistical comparison method.",
+        "The sentence describes subgroup/adjusted/sensitivity analysis specifically; use 12b."
+      ],
+      "positive_cues": [
+        "analysis",
+        "ANCOVA",
+        "regression",
+        "log-transformed",
+        "p value",
+        "statistical analyses",
+        "software",
+        "confidence interval",
+        "multiplicity",
+        "normality"
+      ],
+      "negative_cues": [
+        "primary objective",
+        "secondary objective",
+        "endpoint",
+        "measured by",
+        "sample size"
+      ],
+      "section_prior": [
+        "Methods"
+      ],
+      "high_risk_confusions": [
+        "12b",
+        "6a",
+        "7a"
+      ],
+      "definition": "Statistical methods used to compare groups for primary and secondary outcomes.",
+      "error_count": 113,
+      "omission_count": 37,
+      "section_misuse_count": 0,
+      "underlabel_or_valid_alt_count": 27
+    },
+    "12b": {
+      "must_have": [
+        "Describes statistical methods for additional/subgroup/adjusted/sensitivity analyses.",
+        "Often includes covariates, subgroup terms, adjusted models, per-protocol or analysis-population rules beyond main comparison."
+      ],
+      "not_if": [
+        "The sentence gives the main statistical method for primary/secondary outcomes; use 12a.",
+        "The sentence reports results of an additional analysis; use 18."
+      ],
+      "positive_cues": [
+        "subgroup",
+        "adjusted",
+        "covariate",
+        "sensitivity",
+        "per-protocol",
+        "additional analysis",
+        "secondary analysis"
+      ],
+      "negative_cues": [
+        "results showed",
+        "was reduced",
+        "risk ratio",
+        "95% CI in Results"
+      ],
+      "section_prior": [
+        "Methods"
+      ],
+      "high_risk_confusions": [
+        "12a",
+        "6a",
+        "18"
+      ],
+      "definition": "Methods for additional analyses such as subgroup and adjusted analyses.",
+      "error_count": 70,
+      "omission_count": 2,
+      "section_misuse_count": 3,
+      "underlabel_or_valid_alt_count": 15
+    },
+    "17a": {
+      "must_have": [
+        "Reports Results-section findings for pre-specified primary or secondary outcomes.",
+        "Usually includes group comparison, change from baseline, effect estimate, p-value, confidence interval, or explicit figure/table title for outcome results."
+      ],
+      "not_if": [
+        "The result is for exploratory/ancillary/subgroup/adjusted analyses; use 18.",
+        "The sentence is in Discussion interpreting or summarizing findings rather than reporting original Results-section data.",
+        "The sentence reports harms/adverse events; use 19.",
+        "The sentence is baseline characteristics; use 15."
+      ],
+      "positive_cues": [
+        "between groups",
+        "compared with placebo",
+        "change from baseline",
+        "p =",
+        "95% CI",
+        "mean difference",
+        "risk ratio",
+        "Table",
+        "Figure",
+        "primary endpoint",
+        "secondary outcome"
+      ],
+      "negative_cues": [
+        "Discussion",
+        "subgroup",
+        "exploratory",
+        "adverse events",
+        "baseline characteristics",
+        "interpretation",
+        "clinical efficacy remains open"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "18",
+        "17b",
+        "22",
+        "19",
+        "15",
+        "16"
+      ],
+      "definition": "Results for each primary/secondary outcome by group, with effect size and precision.",
+      "error_count": 469,
+      "omission_count": 149,
+      "section_misuse_count": 28,
+      "underlabel_or_valid_alt_count": 32
+    },
+    "17b": {
+      "must_have": [
+        "For binary outcomes, presents both absolute effect size and relative effect size, or enough paired absolute/relative reporting to satisfy the recommendation."
+      ],
+      "not_if": [
+        "The sentence reports a continuous outcome or only a relative estimate/only an absolute percentage.",
+        "Harms/adverse event binary results should be 19 unless explicitly the primary/secondary binary outcome."
+      ],
+      "positive_cues": [
+        "%",
+        "risk ratio",
+        "relative risk",
+        "odds ratio",
+        "absolute",
+        "rate",
+        "proportion",
+        "binary outcome"
+      ],
+      "negative_cues": [
+        "mean",
+        "change from baseline",
+        "subgroup",
+        "adverse event"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "17a",
+        "19",
+        "18"
+      ],
+      "definition": "For binary outcomes, both absolute and relative effect sizes.",
+      "error_count": 81,
+      "omission_count": 16,
+      "section_misuse_count": 2,
+      "underlabel_or_valid_alt_count": 1
+    },
+    "18": {
+      "must_have": [
+        "Reports Results-section outcomes from additional, subgroup, adjusted, exploratory, ancillary, biomarker, or correlation analyses not clearly the main primary/secondary endpoint results."
+      ],
+      "not_if": [
+        "The sentence reports main primary/secondary outcome results; use 17a.",
+        "The sentence appears in Discussion and interprets results; use 22 or no Results item.",
+        "The sentence reports harms; use 19."
+      ],
+      "positive_cues": [
+        "subgroup",
+        "exploratory",
+        "additional",
+        "correlation",
+        "adjusted",
+        "biomarker",
+        "lipids",
+        "inflammatory markers",
+        "post hoc",
+        "ancillary"
+      ],
+      "negative_cues": [
+        "primary endpoint",
+        "pre-stated endpoint",
+        "Discussion interpretation",
+        "adverse events",
+        "limitations"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "17a",
+        "22",
+        "19",
+        "17b"
+      ],
+      "definition": "Results of other analyses, including subgroup/adjusted/ancillary/exploratory analyses.",
+      "error_count": 211,
+      "omission_count": 36,
+      "section_misuse_count": 12,
+      "underlabel_or_valid_alt_count": 19
+    },
+    "19": {
+      "must_have": [
+        "Reports harms, adverse events, unintended effects, safety outcomes, or adverse event tables, ideally by group."
+      ],
+      "not_if": [
+        "The sentence describes participant discontinuation/loss reasons rather than harms as outcomes; use 13b.",
+        "The sentence reports efficacy outcome results; use 17a/18.",
+        "The sentence only discusses safety limitation in Discussion; use 20 if limitation."
+      ],
+      "positive_cues": [
+        "adverse events",
+        "harms",
+        "safety",
+        "unexpected adverse",
+        "serious adverse",
+        "major adverse cardiovascular events",
+        "side effects"
+      ],
+      "negative_cues": [
+        "withdrawn consent",
+        "excluded from analysis",
+        "lost to follow-up",
+        "baseline",
+        "interpretation"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "17a",
+        "17b",
+        "13b",
+        "22",
+        "18"
+      ],
+      "definition": "Important harms or unintended effects in each group.",
+      "error_count": 162,
+      "omission_count": 16,
+      "section_misuse_count": 4,
+      "underlabel_or_valid_alt_count": 73
+    },
+    "20": {
+      "must_have": [
+        "States a limitation, source of bias, imprecision, missing measurement, limited power, short follow-up, selection limitation, or uncertainty caused by study design/data."
+      ],
+      "not_if": [
+        "The sentence interprets findings or discusses implications without a limitation; use 22.",
+        "The sentence merely reports results or additional analyses."
+      ],
+      "positive_cues": [
+        "limitation",
+        "cannot exclude",
+        "not powered",
+        "small study",
+        "did not evaluate",
+        "no attempt was made",
+        "may provide only partial insight",
+        "short-term follow-up",
+        "not enough"
+      ],
+      "negative_cues": [
+        "implications",
+        "suggests",
+        "therefore findings",
+        "generalizable",
+        "supports"
+      ],
+      "section_prior": [
+        "Discussion"
+      ],
+      "high_risk_confusions": [
+        "22",
+        "21",
+        "18"
+      ],
+      "definition": "Trial limitations, sources of bias/imprecision, multiplicity, and generalizability limits.",
+      "error_count": 104,
+      "omission_count": 12,
+      "section_misuse_count": 0,
+      "underlabel_or_valid_alt_count": 24
+    },
+    "21": {
+      "must_have": [
+        "Explicitly discusses external validity/generalizability/applicability of trial findings to other populations/settings."
+      ],
+      "not_if": [
+        "The sentence gives general interpretation or implications without external-validity language; use 22.",
+        "The sentence states a limitation without applicability; use 20."
+      ],
+      "positive_cues": [
+        "generalizable",
+        "external validity",
+        "applicable",
+        "target population",
+        "future studies using",
+        "broader population"
+      ],
+      "negative_cues": [
+        "interpretation",
+        "clinical implication",
+        "limitation",
+        "bias"
+      ],
+      "section_prior": [
+        "Discussion"
+      ],
+      "high_risk_confusions": [
+        "22",
+        "20"
+      ],
+      "definition": "Generalizability/external validity of trial findings.",
+      "error_count": 59,
+      "omission_count": 0,
+      "section_misuse_count": 0,
+      "underlabel_or_valid_alt_count": 17
+    },
+    "22": {
+      "must_have": [
+        "Interprets trial findings in Discussion/Conclusion, balances results with other evidence, states clinical meaning, implications, recommendations, or unresolved efficacy meaning."
+      ],
+      "not_if": [
+        "The sentence only lists a limitation; use 20.",
+        "The sentence only discusses generalizability/external validity; use 21.",
+        "The sentence reports raw Results-section estimates; use 17a/18/19.",
+        "The sentence describes Methods details."
+      ],
+      "positive_cues": [
+        "suggests",
+        "indicates",
+        "therefore",
+        "clinical efficacy",
+        "remains open",
+        "consistent with",
+        "does not agree with",
+        "may reflect",
+        "important question",
+        "implications",
+        "supports"
+      ],
+      "negative_cues": [
+        "risk ratio",
+        "95% CI in Results",
+        "limitation only",
+        "subgroup result only",
+        "baseline"
+      ],
+      "section_prior": [
+        "Discussion"
+      ],
+      "high_risk_confusions": [
+        "20",
+        "21",
+        "17a",
+        "18",
+        "19"
+      ],
+      "definition": "Interpretation consistent with results, balancing benefits/harms and other evidence.",
+      "error_count": 348,
+      "omission_count": 104,
+      "section_misuse_count": 2,
+      "underlabel_or_valid_alt_count": 57
+    },
+    "13a": {
+      "must_have": [
+        "Reports participant flow numbers: screened, randomized, assigned, received intended treatment, analyzed, often references CONSORT diagram."
+      ],
+      "not_if": [
+        "The sentence reports baseline characteristics of randomized groups; use 15.",
+        "The sentence reports losses/exclusions with reasons after randomization; use 13b."
+      ],
+      "positive_cues": [
+        "screened",
+        "randomized",
+        "assigned",
+        "received",
+        "analyzed",
+        "CONSORT diagram",
+        "participant flow"
+      ],
+      "negative_cues": [
+        "baseline characteristics",
+        "lost",
+        "excluded",
+        "withdrawn",
+        "reason"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "15",
+        "13b",
+        "16"
+      ],
+      "definition": "Numbers randomized, receiving intended treatment, and analyzed for primary outcome.",
+      "error_count": 47,
+      "omission_count": 21,
+      "section_misuse_count": 1,
+      "underlabel_or_valid_alt_count": 8
+    },
+    "13b": {
+      "must_have": [
+        "Reports losses/exclusions after randomization and reasons, including withdrawn consent, discontinuation reasons, excluded from analysis."
+      ],
+      "not_if": [
+        "The sentence reports adverse events as harms outcome; use 19.",
+        "The sentence reports analyzed population without loss/reason; use 16 or 13a."
+      ],
+      "positive_cues": [
+        "withdrew",
+        "withdrawn",
+        "lost to follow-up",
+        "excluded",
+        "discontinued",
+        "reason for discontinuation",
+        "protocol deviation"
+      ],
+      "negative_cues": [
+        "adverse events occurred",
+        "risk ratio",
+        "baseline characteristics"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "19",
+        "16",
+        "13a"
+      ],
+      "definition": "Losses and exclusions after randomization, with reasons.",
+      "error_count": 55,
+      "omission_count": 10,
+      "section_misuse_count": 0,
+      "underlabel_or_valid_alt_count": 10
+    },
+    "15": {
+      "must_have": [
+        "Reports baseline demographic/clinical characteristics by group or table heading for baseline characteristics."
+      ],
+      "not_if": [
+        "The sentence only states randomized counts without baseline characteristics; often 13a unless gold treats as baseline table context.",
+        "The sentence reports outcome results after treatment; use 17a/18."
+      ],
+      "positive_cues": [
+        "baseline characteristics",
+        "demographic",
+        "clinical characteristics",
+        "mean age",
+        "sex",
+        "duration",
+        "HbA1c",
+        "Table 1"
+      ],
+      "negative_cues": [
+        "randomized to receive",
+        "analyzed",
+        "change from baseline"
+      ],
+      "section_prior": [
+        "Results"
+      ],
+      "high_risk_confusions": [
+        "13a",
+        "17a",
+        "18"
+      ],
+      "definition": "Baseline demographic and clinical characteristics by group.",
+      "error_count": 80,
+      "omission_count": 53,
+      "section_misuse_count": 3,
+      "underlabel_or_valid_alt_count": 12
+    },
+    "5": {
+      "must_have": [
+        "Describes interventions for each group with dose, frequency, duration, mode of delivery, or comparator details."
+      ],
+      "not_if": [
+        "The sentence describes outcome measurement procedures or assessment protocols; use 6a.",
+        "The sentence describes eligibility or trial design only."
+      ],
+      "positive_cues": [
+        "receive",
+        "dose",
+        "mg",
+        "placebo",
+        "monthly",
+        "administered",
+        "intervention",
+        "treatment group"
+      ],
+      "negative_cues": [
+        "measured",
+        "assessed",
+        "outcome",
+        "eligibility criteria"
+      ],
+      "section_prior": [
+        "Methods"
+      ],
+      "high_risk_confusions": [
+        "6a",
+        "4a",
+        "3a"
+      ],
+      "definition": "Interventions for each group with sufficient details to allow replication.",
+      "error_count": 110,
+      "omission_count": 23,
+      "section_misuse_count": 9,
+      "underlabel_or_valid_alt_count": 29
+    },
+    "25": {
+      "must_have": [
+        "States funding/support source or funder/sponsor role in design, conduct, data collection, analysis, interpretation, writing, or publication decision."
+      ],
+      "not_if": [
+        "The sentence only states authors drafted the manuscript without sponsor/funder role unless tied to funding/support role.",
+        "Conflict-of-interest or authorship process alone is not necessarily item 25."
+      ],
+      "positive_cues": [
+        "funded by",
+        "sponsor",
+        "funder",
+        "provided drugs",
+        "logistical support",
+        "role of",
+        "supported by"
+      ],
+      "negative_cues": [
+        "manuscript was drafted by academic investigators",
+        "authors had access",
+        "writing committee"
+      ],
+      "section_prior": [
+        "Methods",
+        "Other"
+      ],
+      "high_risk_confusions": [],
+      "definition": "Sources of funding/support and role of funders.",
+      "error_count": 106,
+      "omission_count": 7,
+      "section_misuse_count": 0,
+      "underlabel_or_valid_alt_count": 69
+    }
+  },
+  "pairwise_boundary_rules": {
+    "17a__18": {
+      "items": [
+        "17a",
+        "18"
+      ],
+      "observed_confusions": 176,
+      "rule": "Use 17a for main primary/secondary outcome results in Results; use 18 for additional, subgroup, adjusted, exploratory, ancillary, biomarker, or correlation analyses. Correlation/biomarker/lipid/inflammatory marker figures were often gold 18 unless they were treated as pre-specified outcome results.",
+      "choose_first_when": "The sentence reports a pre-specified primary/secondary outcome, primary endpoint, main comparison, or figure/table explicitly tied to main outcome results.",
+      "choose_second_when": "The sentence reports exploratory/ancillary biomarkers, subgroup/correlation/adjusted analyses, or other analyses beyond primary/secondary outcomes.",
+      "do_not": "Do not assign 18 merely because a result is statistically analyzed; do not assign 17a to exploratory biomarker/lipid/inflammation results unless they are primary/secondary outcomes.",
+      "examples": [
+        {
+          "section": "Results",
+          "pred_item": "18",
+          "gold_item": "17a",
+          "sentence": "(b) within the same patient, there was a striking concordance of change in wall area between left- and right-sided arteries, which was maintained in both treatment groups (p < 0.0001 for each).",
+          "reason": "The correct sentence was extracted but labeled under the wrong CONSORT item, so the 17a pair was missed.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Results",
+          "pred_item": "18",
+          "gold_item": "17a",
+          "sentence": "(b) within the same patient, there was a striking concordance of change in wall area between left- and right-sided arteries, which was maintained in both treatment groups (p < 0.0001 for each).",
+          "reason": "The sentence was incorrectly assigned to item 18 instead of the gold item 17a.",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "17a__17b": {
+      "items": [
+        "17a",
+        "17b"
+      ],
+      "observed_confusions": 85,
+      "rule": "Use 17b only when a binary outcome is reported with both absolute and relative effect sizes. Otherwise use 17a for ordinary primary/secondary outcome results.",
+      "choose_first_when": "The sentence reports outcome results but not both absolute and relative binary effect sizes.",
+      "choose_second_when": "The sentence reports binary proportions/rates plus relative estimate such as RR/OR/risk ratio.",
+      "do_not": "Do not use 17b for continuous outcomes or for a percentage alone without relative effect.",
+      "examples": [
+        {
+          "section": "Results",
+          "pred_item": "17a",
+          "gold_item": "17b",
+          "sentence": "the acr20 and acr50 response rates were higher in okz-treated patients than those receiving pbo at week 12 (table 2).",
+          "reason": "Sentence is correctly extracted but was labeled 17a instead of the gold item 17b.",
+          "type": "FP_ITEM_CONFUSION"
+        },
+        {
+          "section": "Results",
+          "pred_item": "17a",
+          "gold_item": "17b",
+          "sentence": "however, responses were numerically higher for acr20 (p=0.0636) and acr50 (p=0.0574) than pbo (table 2).",
+          "reason": "Sentence is correctly extracted but was labeled 17a instead of the gold item 17b.",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "12a__12b": {
+      "items": [
+        "12a",
+        "12b"
+      ],
+      "observed_confusions": 66,
+      "rule": "Use 12a for main statistical methods for primary/secondary outcomes; use 12b for methods of additional/subgroup/adjusted/sensitivity analyses.",
+      "choose_first_when": "General analysis plan, normality checks, transformations, statistical software, significance threshold, or main group comparison method.",
+      "choose_second_when": "The method is explicitly for subgroup, adjusted, additional, sensitivity, interim-specific, or secondary modeling beyond the main analysis.",
+      "do_not": "Do not label all covariate-adjusted main ANCOVA as 12a if gold treats adjusted/additional analysis methods as 12b; inspect whether it is main vs additional.",
+      "examples": [
+        {
+          "section": "Methods",
+          "pred_item": "12a",
+          "gold_item": "12b",
+          "sentence": "to compare treatment with placebo, we conducted an analysis of covariance on change from baseline, including the glycemic status as a factor and the baseline as a covariate at 3 and 12 months.",
+          "reason": "Sentence was extracted but misassigned to item 12a instead of 12b.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Methods",
+          "pred_item": "12a",
+          "gold_item": "12b",
+          "sentence": "when a log transformation of the change from baseline was not possible because of negative values, an analysis of covariance was conducted on the log-transformed 3- and 12-month data, including glycemic index status as a factor and the log-transformed baseline as a covariate.",
+          "reason": "Sentence was extracted but misassigned to item 12a instead of 12b.",
+          "type": "FN_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "20__22": {
+      "items": [
+        "20",
+        "22"
+      ],
+      "observed_confusions": 60,
+      "rule": "Use 20 for limitations; use 22 for interpretation/implications of results.",
+      "choose_first_when": "Sentence names what the study could not evaluate, bias, imprecision, small sample, dose uncertainty, short follow-up, missing measure, or low power.",
+      "choose_second_when": "Sentence explains meaning of results, compares with prior evidence, states clinical implication, or says efficacy remains open.",
+      "do_not": "Do not use 22 for pure limitation statements; do not use 20 for recommendations or interpretations without limitation.",
+      "examples": [
+        {
+          "section": "Discussion",
+          "pred_item": "20",
+          "gold_item": "22",
+          "sentence": "effects of canakinumab on plaque inflammation or on leukocyte function elsewhere may be undetectable with current imaging technologies.",
+          "reason": "Predicted the sentence but assigned it to 20 instead of 22",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Discussion",
+          "pred_item": "20",
+          "gold_item": "22",
+          "sentence": "because the limestone was mixed with food or porridge, children who did not finish their food would not have had a complete dose.",
+          "reason": "The sentence was predicted under item 20 rather than the gold item 22.",
+          "type": "FN_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "17a__22": {
+      "items": [
+        "17a",
+        "22"
+      ],
+      "observed_confusions": 57,
+      "rule": "Use section context strongly: Results-section raw estimates are 17a; Discussion/Conclusion summaries and interpretations are usually 22, even when they restate results.",
+      "choose_first_when": "Results section and sentence reports original outcome estimates/comparisons.",
+      "choose_second_when": "Discussion section and sentence interprets/summarizes trial findings or relates them to prior evidence.",
+      "do_not": "Do not assign 17a to Discussion sentences only because they contain outcome-like language.",
+      "examples": [
+        {
+          "section": "Discussion",
+          "pred_item": "17a",
+          "gold_item": "22",
+          "sentence": "however, canakinumab administration did result in an increase in plasma triglyceride levels, as reported previously for this agent (20).",
+          "reason": "Correct sentence extracted but assigned to 17a instead of 22",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Discussion",
+          "pred_item": "17a",
+          "gold_item": "22",
+          "sentence": "however, canakinumab administration did result in an increase in plasma triglyceride levels, as reported previously for this agent (20).",
+          "reason": "Sentence belongs to item 22 in gold but was labeled as 17a",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "21__22": {
+      "items": [
+        "21",
+        "22"
+      ],
+      "observed_confusions": 39,
+      "rule": "Use 21 only for external validity/generalizability/applicability; use 22 for interpretation, implications, recommendations, and relation to evidence.",
+      "choose_first_when": "Sentence explicitly addresses applicability to populations/settings or generalizability.",
+      "choose_second_when": "Sentence gives clinical meaning, implications, consistency with literature, or future efficacy interpretation.",
+      "do_not": "Do not use 21 for generic implications/future study statements without external-validity framing.",
+      "examples": [
+        {
+          "section": "Discussion",
+          "pred_item": "21",
+          "gold_item": "22",
+          "sentence": "Significantly, given the target population, the present study showed that this effect persists even with near-universal statin use.",
+          "reason": "Matches the gold sentence for item 22 but was assigned to item 21.",
+          "type": "FP_ITEM_CONFUSION"
+        },
+        {
+          "section": "Discussion",
+          "pred_item": "21",
+          "gold_item": "22",
+          "sentence": "Significantly, given the target population, the present study showed that this effect persists even with near-universal statin use.",
+          "reason": "Gold pair present but prediction misassigned it to the wrong CONSORT item.",
+          "type": "FN_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "19__22": {
+      "items": [
+        "19",
+        "22"
+      ],
+      "observed_confusions": 37,
+      "rule": "Use 19 for Results-section harms/adverse effects; use 22 for Discussion interpretation of safety or benefit-harm meaning.",
+      "choose_first_when": "Sentence reports adverse event counts/rates/tables or unexpected adverse outcomes.",
+      "choose_second_when": "Sentence interprets safety findings, balances benefits/harms, or discusses clinical meaning.",
+      "do_not": "Do not assign 19 to Discussion interpretation unless it explicitly reports harms as trial result and gold convention supports it.",
+      "examples": [
+        {
+          "section": "Discussion",
+          "pred_item": "19",
+          "gold_item": "22",
+          "sentence": "reported TEAEs in this study were consistent with the safety profile expected of this class of drug, with no new safety signals identified.",
+          "reason": "The sentence is present but the model assigned it to item 19 instead of the gold item 22.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Discussion",
+          "pred_item": "19",
+          "gold_item": "22",
+          "sentence": "Commonly reported TEAEs in OKZ treated patients included gastrointestinal disorders, infections and infestations (primarily upper and lower respiratory tract infections and urinary tract infections) and nervous system disorders, which is qualitatively similar to the safety profile observed for TCZ in this and other previously published trials, as well as other anti-IL6 s in development.11 27–31",
+          "reason": "The sentence is extracted but the model used item 19 instead of the gold item 22.",
+          "type": "FN_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "18__22": {
+      "items": [
+        "18",
+        "22"
+      ],
+      "observed_confusions": 35,
+      "rule": "Use 18 for Results-section additional analysis results; use 22 for Discussion interpretation of those results.",
+      "choose_first_when": "Sentence gives numerical/analytic result from subgroup/ancillary/exploratory analysis.",
+      "choose_second_when": "Sentence explains the meaning or robustness of additional findings in Discussion.",
+      "do_not": "Do not use 18 for Discussion interpretations simply because they mention additional analyses.",
+      "examples": [
+        {
+          "section": "Discussion",
+          "pred_item": "18",
+          "gold_item": "22",
+          "sentence": "There were strong relationships between changes in the left- versus right-sided vessels evident in both the canakinumab and the placebo groups but with a tendency toward progression bilaterally in the placebo group.",
+          "reason": "The sentence is in the paragraph but the model assigned it to item 18 instead of item 22.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Discussion",
+          "pred_item": "18",
+          "gold_item": "22",
+          "sentence": "There were strong relationships between changes in the left- versus right-sided vessels evident in both the canakinumab and the placebo groups but with a tendency toward progression bilaterally in the placebo group.",
+          "reason": "Correct sentence but misassigned to item 18 rather than item 22.",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "5__6a": {
+      "items": [
+        "5",
+        "6a"
+      ],
+      "observed_confusions": 29,
+      "rule": "Use 5 for what participants received; use 6a for what was measured and how/when.",
+      "choose_first_when": "Drug/device/behavioral intervention dose, frequency, duration, delivery, comparator.",
+      "choose_second_when": "Outcome measure, assessment schedule, monitoring procedure, imaging/lab protocol.",
+      "do_not": "Do not label measurement/imaging equipment as intervention merely because it is procedural.",
+      "examples": [
+        {
+          "section": "Methods",
+          "pred_item": "5",
+          "gold_item": "6a",
+          "sentence": "a baseline 30 min intra-arterial infusion of saline was followed by intra-arterial infusion of substance p at 2, 4 and 8 pmol/min; then acetylcholine at 5, 10 and 20 µg/min; and finally sodium nitroprusside at 2, 4 and 8 μg/min, infused for 10 min at each dose with each agonist separated by a 20 min saline infusion.",
+          "reason": "Correct sentence extracted but labeled with the wrong CONSORT item (should be 6a).",
+          "type": "FP_ITEM_CONFUSION"
+        },
+        {
+          "section": "Methods",
+          "pred_item": "5",
+          "gold_item": "6a",
+          "sentence": "Venous 17-gauge cannulae were inserted into each forearm for blood sampling and a 27-standard wire gauge steel needle placed in the brachial artery of the non-dominant forearm for vasodilator infusions.",
+          "reason": "Correct sentence extracted but assigned to item 5 instead of 6a.",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "6a__12a": {
+      "items": [
+        "6a",
+        "12a"
+      ],
+      "observed_confusions": 20,
+      "rule": "Use 6a for outcome definition/assessment; use 12a for statistical analysis method.",
+      "choose_first_when": "Sentence says what was measured, the endpoint, instrument, timing, assessment method.",
+      "choose_second_when": "Sentence says how data were statistically compared/analyzed.",
+      "do_not": "Do not assign objectives/endpoints to 12a unless statistics are described.",
+      "examples": [
+        {
+          "section": "Methods",
+          "pred_item": "6a",
+          "gold_item": "12a",
+          "sentence": "for each disease, we calculated incidence rates for all events.",
+          "reason": "Sentence present but assigned to wrong item (predicted as 6a instead of 12a).",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Methods",
+          "pred_item": "6a",
+          "gold_item": "12a",
+          "sentence": "for each disease, we calculated incidence rates for all events.",
+          "reason": "Correct sentence extracted but mis‐assigned to item 6a instead of 12a.",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "13b__19": {
+      "items": [
+        "13b",
+        "19"
+      ],
+      "observed_confusions": 14,
+      "rule": "Use 13b for participant losses/exclusions and reasons; use 19 for harms/adverse events as trial outcomes.",
+      "choose_first_when": "Sentence says withdrew, excluded, discontinued, lost to follow-up, protocol deviation, reason for discontinuation.",
+      "choose_second_when": "Sentence reports adverse event occurrence/rates/tables or safety outcomes.",
+      "do_not": "Do not assign 19 to “discontinuation due to adverse events” if the function is explaining participant flow/losses; use 13b by gold convention.",
+      "examples": [
+        {
+          "section": "Results",
+          "pred_item": "19",
+          "gold_item": "13b",
+          "sentence": "the most common cause for discontinuation was for adverse events.",
+          "reason": "Sentence is in paragraph but was annotated as 13b in gold; model assigned it to 19 instead.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Results",
+          "pred_item": "19",
+          "gold_item": "13b",
+          "sentence": "a total of five patients reported serious aes that led to study discontinuation, including one patient in each of gp mdi 9, 2.4, and 0.6 μg, placebo mdi, and open-label tiotropium treatment arms (table 3).",
+          "reason": "Sentence present but assigned to item 19 instead of 13b",
+          "type": "FN_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "10__9": {
+      "items": [
+        "9",
+        "10"
+      ],
+      "observed_confusions": 14,
+      "rule": "Use 9 for concealment mechanism; use 10 for implementation roles.",
+      "choose_first_when": "Sentence describes central assignment, sealed envelopes, computer system, concealment before assignment.",
+      "choose_second_when": "Sentence says who generated the sequence, who enrolled participants, who assigned interventions.",
+      "do_not": "Do not use 10 for a mechanism without human/role implementation details.",
+      "examples": [
+        {
+          "section": "Methods",
+          "pred_item": "9",
+          "gold_item": "10",
+          "sentence": "the randomisation key was kept by the pharmacy of the university medical center utrecht.",
+          "reason": "Gold pair for item 10 appears in paragraph but model assigned this sentence to item 9 instead of 10.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Methods",
+          "pred_item": "9",
+          "gold_item": "10",
+          "sentence": "the randomisation key was kept by the pharmacy of the university medical center utrecht.",
+          "reason": "Model predicted this sentence under item 9, but it belongs to item 10 in gold.",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    },
+    "13a__15": {
+      "items": [
+        "13a",
+        "15"
+      ],
+      "observed_confusions": 4,
+      "rule": "Use 13a for flow counts; use 15 for baseline characteristics. A sentence with randomized counts inside a baseline-characteristics paragraph may be annotated as 15 depending on table context, but pure flow/CONSORT diagram language is 13a.",
+      "choose_first_when": "Screened/randomized/assigned/analyzed numbers or CONSORT diagram.",
+      "choose_second_when": "Baseline demographics/clinical characteristics by group or Table 1 baseline characteristics.",
+      "do_not": "Do not label baseline demographic summaries as 13a.",
+      "examples": [
+        {
+          "section": "Results",
+          "pred_item": "13a",
+          "gold_item": "15",
+          "sentence": "of 450 patients screened, 189 were randomized to receive either placebo (n = 94) or canakinumab 150 mg (n = 95).",
+          "reason": "Sentence was labeled 15 in gold but model assigned it to 13a.",
+          "type": "FN_ITEM_CONFUSION"
+        },
+        {
+          "section": "Results",
+          "pred_item": "13a",
+          "gold_item": "15",
+          "sentence": "of 450 patients screened, 189 were randomized to receive either placebo (n = 94) or canakinumab 150 mg (n = 95).",
+          "reason": "Correct sentence but wrong CONSORT item (should be 15).",
+          "type": "FP_ITEM_CONFUSION"
+        }
+      ]
+    }
+  },
+  "global_rules": [
+    "Use section context as a hard constraint unless the dataset clearly annotates cross-section evidence: Methods items should usually come from Methods; Results items such as 13–19 should usually come from Results; Discussion items 20–22 should usually come from Discussion.",
+    "Treat table and figure captions as valid evidence when the gold uses standalone table/figure headings; do not skip them as non-sentences.",
+    "When an FP is labeled FP_ANNOTATION_UNDERLABEL or FP_VALID_ALTERNATIVE, do not automatically turn it into a negative rule; store it as possible annotation incompleteness and validate manually.",
+    "For alignment, prefer the item whose required evidence is explicitly satisfied over the item triggered by superficial keywords.",
+    "When a sentence could satisfy multiple items, preserve multiple candidate labels for verifier scoring rather than forcing a premature single-label decision."
+  ]
+}
