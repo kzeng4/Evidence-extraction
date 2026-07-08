@@ -1,56 +1,46 @@
 ```text
-Algorithm: Paragraph-Gated Section-Specific CONSORT Extraction
+Algorithm: Multi-Section Paragraph-Gated CONSORT Extraction
 
 Input:
-    Article A = {p1, ..., pn}, where each paragraph pi contains sentence IDs
-    Target section q = Methods
-    Optimized section predictor C
-    Methods-specific extractor E_q
-    Gold section labels G and gold item-sentence pairs Y
+    Article A represented as article → paragraph → sentence JSON
+    Optimized or base section predictor C
+    Enabled section extractors {E_s}: currently Introduction and Methods
+    Gold paragraph section labels G and gold item-sentence pairs Y for optimization
 
 Output:
-    Predicted CONSORT item-sentence pairs Ŷ
+    Merged CONSORT item-sentence relations Ŷ = {(item, sid)}
 
-1:  Initialize selected paragraph set p ← ∅
-2:  Initialize section feedback F_sec ← ∅
-3:  Initialize extraction feedback F_ext ← ∅
+1. Predict paragraph sections once:
+       Ĝ ← C(A)
 
-4:  Predict paragraph sections Ĝ ← C(A)
+2. For each enabled section s:
+       Initialize routed paragraph set P_s ← ∅
+       For each paragraph p_i:
+           true_has_s ← s ∈ G_i
+           pred_has_s ← s ∈ Ĝ_i
 
-5:  for each paragraph p_i ∈ A do
-6:      true_has_section ← q ∈ G_i
-7:      pred_has_section ← q ∈ Ĝ_i
+           If true_has_s and pred_has_s:
+               Add p_i to P_s
+           If true_has_s and not pred_has_s:
+               Add paragraph-specific feedback to the section predictor
+           If not true_has_s and pred_has_s:
+               Add over-routing feedback to the section predictor
 
-8:      if true_has_section and not pred_has_section then
-9:          Add p_i to F_sec as a missed Methods-routing error
-10:         continue
+3. For each enabled section s:
+       Run section-specific extractor:
+           Ŷ_s ← E_s(P_s)
+       Generate section-specific extraction feedback using only paragraphs
+       that passed the target-section gate.
 
-11:     else if not true_has_section and pred_has_section then
-12:         Add p_i to F_sec as an over-routing error
-13:         continue
+4. Merge all section outputs:
+       Ŷ ← Deduplicate( ⋃_s Ŷ_s ) using item-sid pairs
 
-14:     else if true_has_section and pred_has_section then
-15:         Add p_i to P_q
-16:     end if
-17: end for
+5. Evaluate final extraction:
+       TP ← Ŷ ∩ Y
+       FP ← Ŷ \ Y
+       FN ← Y \ Ŷ
+       Compute precision, recall, and F1 over merged item-sid pairs.
 
-18: Run Methods extractor Ŷ_q ← E_q(P_q)
-
-19: Evaluate extraction using item-sentence pairs (item, sid)
-20: TP ← predicted pairs that match gold pairs
-21: FP ← predicted pairs not in gold
-22: FN_ext ← gold pairs in correctly routed paragraphs but not predicted
-23: FN_sec ← gold pairs blocked by Step-1 section errors
-
-24: if F_sec is not empty then
-25:     Generate feedback for the section predictor
-26: end if
-
-27: if FP or FN_ext is not empty then
-28:     Generate Methods-specific feedback for the extractor
-29:     Update mutable Methods prototype rules
-30: end if
-
-31: Compute precision, recall, and F1
-32: return Ŷ_q, F_sec, F_ext
-```
+6. Optimize with separated feedback:
+       Routing errors update the section predictor.
+       Section-specific extraction errors update the corresponding section extractor/prototype.
