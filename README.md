@@ -9,9 +9,9 @@ Input:
     Gold section labels G and gold item-sentence pairs Y
 
 Output:
-    Predicted CONSORT item-sentence pairs Ŷ_q
+    Predicted CONSORT item-sentence pairs Ŷ
 
-1:  Initialize selected paragraph set P_q ← ∅
+1:  Initialize selected paragraph set p ← ∅
 2:  Initialize section feedback F_sec ← ∅
 3:  Initialize extraction feedback F_ext ← ∅
 
