@@ -1,0 +1,4589 @@
+[
+  {
+    "article": "PMC3002766",
+    "paragraph_sections": [
+      {
+        "pnum": 0,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 1,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 1,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 2,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 2,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 3,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 3,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 4,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 4,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 5,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 5,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 6,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 6,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 7,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 7,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 8,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 8,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 9,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 9,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 10,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 10,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 11,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 11,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 12,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 12,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 13,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 13,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 14,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 14,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 15,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 15,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 16,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 16,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 17,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 17,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 18,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 18,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 19,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 19,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 20,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 20,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 21,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 21,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 22,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 22,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 23,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 23,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 24,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 24,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 25,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 25,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 26,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 26,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 27,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 27,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 28,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 28,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 29,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 29,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 30,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 30,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 31,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 31,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 32,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 32,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 33,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 33,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 34,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 34,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 35,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 35,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 36,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 36,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 37,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 37,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 38,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 38,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 39,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 39,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 40,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 40,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 41,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 41,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 42,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 42,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 43,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 43,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 44,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 44,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 45,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 45,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 46,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 46,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 47,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 47,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 48,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 48,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 49,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 49,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 50,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 50,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 51,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 51,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 52,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 52,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 53,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 53,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 54,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 54,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 55,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 55,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 56,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 56,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 57,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 57,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 58,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 58,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 59,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 59,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 60,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 60,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 61,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 61,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 62,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 62,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 63,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 63,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 64,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 64,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 65,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 65,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 66,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 66,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 67,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 67,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 68,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 68,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 69,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 69,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 70,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 70,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 71,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 71,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 72,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 72,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 73,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 73,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 74,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 74,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002766",
+        "pid": 75,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      }
+    ]
+  },
+  {
+    "article": "PMC3002834",
+    "paragraph_sections": [
+      {
+        "pnum": 0,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 1,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 1,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 2,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 2,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 3,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 3,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 4,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 4,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 5,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 5,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 6,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 6,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 7,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 7,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 8,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 8,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 9,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 9,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 10,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 10,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 11,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 11,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 12,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 12,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 13,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 13,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 14,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 14,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 15,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 15,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 16,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 16,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 17,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 17,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 18,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 18,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 19,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 19,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 20,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 20,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 21,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 21,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 22,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 22,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 23,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 23,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 24,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 24,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 25,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 25,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 26,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 26,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 27,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 27,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 28,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 28,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 29,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 29,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 30,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 30,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 31,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 31,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 32,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 32,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 33,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 33,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 34,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 34,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 35,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 35,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 36,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 36,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 37,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 37,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 38,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 38,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 39,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 39,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 40,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 40,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 41,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 41,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 42,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 42,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 43,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 43,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 44,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 44,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 45,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 45,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 46,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 46,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 47,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 47,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 48,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 48,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 49,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 49,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 50,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 50,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 51,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 51,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 52,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 52,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 53,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 53,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 54,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 54,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 55,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 55,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 56,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 56,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 57,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 57,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 58,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 58,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 59,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 59,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 60,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 60,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 61,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 61,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 62,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 62,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 63,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 63,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 64,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 64,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 65,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 65,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 66,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 66,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 67,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 67,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 68,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 68,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 69,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 69,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 70,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 70,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 71,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 71,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3002834",
+        "pid": 72,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      }
+    ]
+  },
+  {
+    "article": "PMC3016167",
+    "paragraph_sections": [
+      {
+        "pnum": 0,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 1,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 1,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 2,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 2,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 3,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 3,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 4,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 4,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 5,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 5,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 6,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 6,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 7,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 7,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 8,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 8,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 9,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 9,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 10,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 10,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 11,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 11,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 12,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 12,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 13,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 13,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 14,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 14,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 15,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 15,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 16,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 16,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 17,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 17,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 18,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 18,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 19,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 19,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 20,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 20,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 21,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 21,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 22,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 22,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 23,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 23,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 24,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 24,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 25,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 25,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 26,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 26,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 27,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 27,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 28,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 28,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 29,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 29,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 30,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 30,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 31,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 31,
+        "location_section": "methods",
+        "content_sections": [
+          "methods",
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 32,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 32,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 33,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 33,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 34,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 34,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 35,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 35,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 36,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 36,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 37,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 37,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 38,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 38,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 39,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 39,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 40,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 40,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 41,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 41,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 42,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 42,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 43,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 43,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 44,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 44,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 45,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 45,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 46,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 46,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 47,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 47,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 48,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 48,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 49,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 49,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 50,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 50,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 51,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 51,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 52,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 52,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 53,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 53,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 54,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 54,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 55,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 55,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 56,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 56,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 57,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 57,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 58,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 58,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 59,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 59,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 60,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 60,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 61,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 61,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 62,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 62,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 63,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 63,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 64,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 64,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 65,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 65,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 66,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 66,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 67,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 67,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 68,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 68,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 69,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 69,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 70,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 70,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 71,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 71,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 72,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 72,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 73,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 73,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 74,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 74,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 75,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 75,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 76,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 76,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 77,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 77,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 78,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 78,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 79,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 79,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 80,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 80,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 81,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 81,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 82,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 82,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 83,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 83,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 84,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 84,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 85,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 85,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 86,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 86,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 87,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 87,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 88,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 88,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 89,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 89,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 90,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 90,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 91,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 91,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3016167",
+        "pid": 92,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      }
+    ]
+  },
+  {
+    "article": "PMC3018567",
+    "paragraph_sections": [
+      {
+        "pnum": 0,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 1,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 1,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 2,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 2,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 3,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 3,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 4,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 4,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 5,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 5,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 6,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 6,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 7,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 7,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 8,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 8,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 9,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 9,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 10,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 10,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 11,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 11,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 12,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 12,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 13,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 13,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 14,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 14,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 15,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 15,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 16,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 16,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 17,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 17,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 18,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 18,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 19,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 19,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 20,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 20,
+        "location_section": "methods",
+        "content_sections": [
+          "methods",
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 21,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 21,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 22,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 22,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 23,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 23,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 24,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 24,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 25,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 25,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 26,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 26,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 27,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 27,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 28,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 28,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 29,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 29,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 30,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 30,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 31,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 31,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 32,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 32,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 33,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 33,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 34,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 34,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 35,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 35,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 36,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 36,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 37,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 37,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 38,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 38,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 39,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 39,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 40,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 40,
+        "location_section": "methods",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 41,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 41,
+        "location_section": "methods",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 42,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 42,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 43,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 43,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 44,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 44,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 45,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 45,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 46,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 46,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 47,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 47,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 48,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 48,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 49,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 49,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 50,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 50,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 51,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 51,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 52,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 52,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 53,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 53,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 54,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 54,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 55,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 55,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 56,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 56,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 57,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 57,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 58,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 58,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 59,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 59,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 60,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 60,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 61,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 61,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 62,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 62,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 63,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 63,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 64,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 64,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 65,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 65,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 66,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 66,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 67,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 67,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 68,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 68,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 69,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 69,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 70,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 70,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 71,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 71,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 72,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 72,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 73,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 73,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 74,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 74,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 75,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 75,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 76,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 76,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 77,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 77,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 78,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 78,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 79,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 79,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3018567",
+        "pid": 80,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      }
+    ]
+  },
+  {
+    "article": "PMC3028347",
+    "paragraph_sections": [
+      {
+        "pnum": 0,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 1,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 1,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 2,
+        "original_section_raw": "Title",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 2,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 3,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 3,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 4,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 4,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 5,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 5,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 6,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 6,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 7,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 7,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 8,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 8,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 9,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 9,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 10,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 10,
+        "location_section": "title_abstract",
+        "content_sections": [
+          "title_abstract"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 11,
+        "original_section_raw": "Abstract",
+        "original_location_section": "title_abstract"
+      },
+      {
+        "pnum": 11,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 12,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 12,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 13,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 13,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 14,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 14,
+        "location_section": "introduction",
+        "content_sections": [
+          "introduction"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 15,
+        "original_section_raw": "Introduction",
+        "original_location_section": "introduction"
+      },
+      {
+        "pnum": 15,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 16,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 16,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 17,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 17,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 18,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 18,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 19,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 19,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 20,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 20,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 21,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 21,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 22,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 22,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 23,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 23,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 24,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 24,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 25,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 25,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 26,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 26,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 27,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 27,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 28,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 28,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 29,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 29,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 30,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 30,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 31,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 31,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 32,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 32,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 33,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 33,
+        "location_section": "methods",
+        "content_sections": [
+          "methods"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 34,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 34,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 35,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 35,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 36,
+        "original_section_raw": "Methods",
+        "original_location_section": "methods"
+      },
+      {
+        "pnum": 36,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 37,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 37,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 38,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 38,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 39,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 39,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 40,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 40,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 41,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 41,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 42,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 42,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 43,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 43,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 44,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 44,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 45,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 45,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 46,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 46,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 47,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 47,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 48,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 48,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 49,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 49,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 50,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 50,
+        "location_section": "results",
+        "content_sections": [
+          "results"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 51,
+        "original_section_raw": "Results",
+        "original_location_section": "results"
+      },
+      {
+        "pnum": 51,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 52,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 52,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 53,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 53,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 54,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 54,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 55,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 55,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 56,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 56,
+        "location_section": "discussion",
+        "content_sections": [
+          "discussion"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 57,
+        "original_section_raw": "Discussion",
+        "original_location_section": "discussion"
+      },
+      {
+        "pnum": 57,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 58,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 58,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 59,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 59,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 60,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      },
+      {
+        "pnum": 60,
+        "location_section": "other_information",
+        "content_sections": [
+          "other_information"
+        ],
+        "missing_filled": false,
+        "article": "PMC3028347",
+        "pid": 61,
+        "original_section_raw": "Other",
+        "original_location_section": "other_information"
+      }
+    ]
+  }
+]
