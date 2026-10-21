@@ -1,0 +1,38 @@
+Item No,Item Name,Description
+1a,Title and abstract,Identification as a randomised trial in the title
+1b,Title and abstract,"Structured summary of trial design, methods, results, and conclusions"
+2a,Introduction - Background and objectives,Scientific background and explanation of rationale
+2b,Introduction - Background and objectives,Specific objectives or hypotheses
+3a,Methods - Trial design,"Description of trial design (such as parallel, factorial) including allocation ratio"
+3b,Methods - Trial design,"Important changes to methods after trial commencement (such as eligibility criteria), with reasons"
+4a,Methods - Participants,Eligibility criteria for participants
+4b,Methods - Participants,Settings and locations where the data were collected
+5,Methods - Interventions,"The interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+6a,Methods - Outcomes,"Completely defined pre-specified primary and secondary outcome measures, including how and when they were assessed"
+6b,Methods - Outcomes,"Any changes to trial outcomes after the trial commenced, with reasons"
+7a,Methods - Sample size,How sample size was determined
+7b,Methods - Sample size,"When applicable, explanation of any interim analyses and stopping guidelines"
+8a,Methods - Randomisation: Sequence generation,Method used to generate the random allocation sequence
+8b,Methods - Randomisation: Sequence generation,Type of randomisation; details of any restriction (such as blocking and block size)
+9,Methods - Randomisation: Allocation concealment mechanism,"Mechanism used to implement the random allocation sequence, describing any steps taken to conceal the sequence until interventions were assigned"
+10,Methods - Randomisation: Implementation,"Who generated the random allocation sequence, who enrolled participants, and who assigned participants to interventions"
+11a,Methods - Blinding,"If done, who was blinded after assignment to interventions and how"
+11b,Methods - Blinding,"If relevant, description of the similarity of interventions"
+12a,Methods - Statistical methods,Statistical methods used to compare groups for primary and secondary outcomes
+12b,Methods - Statistical methods,"Methods for additional analyses, such as subgroup analyses and adjusted analyses"
+13a,Results - Participant flow,"For each group, the numbers of participants who were randomly assigned, received intended treatment, and were analysed for the primary outcome"
+13b,Results - Participant flow,"For each group, losses and exclusions after randomisation, together with reasons"
+14a,Results - Recruitment,Dates defining the periods of recruitment and follow-up
+14b,Results - Recruitment,Why the trial ended or was stopped
+15,Results - Baseline data,A table showing baseline demographic and clinical characteristics for each group
+16,Results - Numbers analysed,"For each group, number of participants included in each analysis and whether the analysis was by original assigned groups"
+17a,Results - Outcomes and estimation,"For each primary and secondary outcome, results for each group, and the estimated effect size and its precision"
+17b,Results - Outcomes and estimation,"For binary outcomes, presentation of both absolute and relative effect sizes is recommended"
+18,Results - Ancillary analyses,"Results of any other analyses performed, including subgroup analyses and adjusted analyses, distinguishing pre-specified from exploratory"
+19,Results - Harms,All important harms or unintended effects in each group
+20,Discussion - Limitations,"Trial limitations, addressing sources of potential bias, imprecision, and multiplicity of analyses"
+21,Discussion - Generalisability,Generalisability of the trial findings
+22,Discussion - Interpretation,"Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence"
+23,Other information - Registration,Registration number and name of trial registry
+24,Other information - Protocol,"Where the full trial protocol can be accessed, if available"
+25,Other information - Funding,"Sources of funding and other support, role of funders"
